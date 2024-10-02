@@ -1,1 +1,1 @@
-# clg-Blog-template
+# clg-blog Frontend project
